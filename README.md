@@ -3,14 +3,6 @@
 
 **MCBBS关站致使大量教程失效，恳请各位读者协助指南联系相关作者及时迁移教程。**
 
-**点击右上方的“Watch”按钮以实时获取中文指南的更新情况，点击右上方“Star”按钮以支持中文指南的编撰。**
-
-**欢迎各位[在此](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/new?assignees=&labels=&projects=&template=request.yml)提交各类我的世界开发相关教程、资料、文档、类库。**
-
-**欢迎加入[我的世界开发讨论Q群：345538010](https://qm.qq.com/q/Ou895SBQEE)**
-
-发布定制或承接定制请加入[我的世界定制交流Q群：1047988033](https://qm.qq.com/q/Xs4LacqfOU)
-
 ## 目录
 - [提问的方法](#提问的方法)
 - [常用网站与资源](#常用网站与资源)
@@ -51,8 +43,6 @@
 
 ## 常用网站与资源
 
-### ~~[我的世界中文论坛开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)~~
-
 ### [Github](https://github.com/)
 全球最大的社交编程与代码托管网站，可以在这里查看许多模组和插件的源代码。
 
@@ -64,9 +54,6 @@
 
 ### 搜索引擎[百度](https://www.baidu.com)/[必应](https://www.bing.com)/[谷歌](https://www.google.com)
 有什么问题为什么不先百度一下呢？
-
-### ~~[wiki.vg](https://wiki.vg/Main_Page)~~
-> wiki.vg已关闭，目前Minecraft Wiki正在合并相关内容，[点击此处访问临时页面](https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge)。
 
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
@@ -202,8 +189,6 @@
 - [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [【全版本】Coremod导论—从切比雪夫多项式说起](https://archives.mcbbs.co/read.php?tid=822754)
 - [【全版本】俩车的 Coremod 介绍](https://archives.mcbbs.co/read.php?tid=849970)
-- ~~[【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)~~
-- ~~[【1.7.10】261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)~~
 
 ### 其他语言资源
 - [【1.16-1.17】【非官方】Forge社区百科](https://forge.gemwire.uk/)
@@ -230,7 +215,6 @@
 - [【1.7.10】jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
 - [【1.7.10】模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
 - [【1.7.10】EMX的教程](https://emxtutorials.wordpress.com/)
-- ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
 ### 模组迁移入门指南（英语）
 - [1.20.5/6 -> 1.21 模组迁移指南](https://gist.github.com/ChampionAsh5357/d895a7b1a34341e19c80870720f9880f)
@@ -275,7 +259,6 @@
 - [Mod Coder Pack（1.7.10-1.12）](http://www.modcoderpack.com/)
 - [Mod Coder Pack的Minecraft Wiki历史留档（a0.2.1-1.12）](https://minecraft.wiki/w/Tutorials/Programs_and_editors/Mod_Coder_Pack)
 - [RetroMCP（1.5.2及以前版本）](https://github.com/MCPHackers/RetroMCP-Java)
-- ~~[MCPBot Data Exports](http://export.mcpbot.bspk.rs/)~~
 
 #### Forge Javadoc
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
