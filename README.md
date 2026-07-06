@@ -1,5 +1,4 @@
 # 我的世界开发者中文指南
-![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-Gitee-red)](https://gitee.com/mirrors_Mouse0w0/MinecraftDeveloperGuide) 
 
 **MCBBS关站致使大量教程失效，恳请各位读者协助指南联系相关作者及时迁移教程。**
 
